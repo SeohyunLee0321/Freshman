@@ -1,0 +1,7 @@
+﻿  9_9.cpp
+  main.cpp
+c:\users\zrowx\onedrive\바탕 화면\대학\1학년\2학기\c++스터디\9_9\9_9\main.cpp(18): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+  코드를 생성하고 있습니다...
+c:\users\zrowx\onedrive\바탕 화면\대학\1학년\2학기\c++스터디\9_9\9_9\9_9.cpp(49): warning C4715: 'LinearEquation::isSolvable': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  LINK : C:\Users\zrowx\OneDrive\바탕 화면\대학\1학년\2학기\C++스터디\9_9\9_9\Debug\9_9.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  9_9.vcxproj -> C:\Users\zrowx\OneDrive\바탕 화면\대학\1학년\2학기\C++스터디\9_9\9_9\Debug\9_9.exe
